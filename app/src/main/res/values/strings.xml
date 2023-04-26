@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LeafBoard-Login</string>
+    <string name="leafBoard">LeafBoard</string>
+    <string name="work_without_limits">Work without limits</string>
+    <string name="your_email_address">Your Email Address</string>
+    <string name="choose_password">Choose a password</string>
+    <string name="btnContinue">Continue</string>
+    <string name="sign_google">Sign up with Google</string>
+    <string name="sign_apple">Sign up with Apple</string>
+
+</resources>
